@@ -18,3 +18,15 @@ int main (){
     return 0;
 }
 
+#include <iostream>
+
+using namespace std;
+
+int main(){
+    int tall;
+    cout << "Skriv et tall";
+    cin >> tall*2 >> endl;
+
+    return 0;
+    
+}
